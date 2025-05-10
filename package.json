@@ -1,0 +1,37 @@
+{
+  "name": "@browser/opfs",
+  "version": "1.0.0",
+  "description": "Simplified access to browser's Origin Private File System (OPFS) for persistent client-side file storage.",
+  "main": "opfs.js",
+  "scripts": {
+    "build": "echo 'No build needed'",
+    "test": "echo 'No test specified'"
+  },
+  "keywords": [
+    "opfs",
+    "origin-private-file-system",
+    "origin private file system",
+    "browser storage",
+    "persistent storage",
+    "javascript filesystem",
+    "javascript file storage",
+    "web file api",
+    "web file system",
+    "client-side storage",
+    "html5 file system",
+    "local files",
+    "pwa storage",
+    "binary storage",
+    "offline storage",
+    "save to browser",
+    "write to browser",
+    "opfs api",
+    "file system access",
+    "file system api",
+    "data persistence",
+    "streaming file api",
+    "browser fs"
+  ],
+  "author": "Atik Solanki",
+  "license": "MIT"
+}
