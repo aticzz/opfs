@@ -94,21 +94,21 @@ OPFS.js makes this power usable with minimal code.
 
 ### CDN (Browser)
 ```html
-<script src="https://cdn.jsdelivr.net/npm/opfs@1.0.0/opfs.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/opfs-js@1.0.0/opfs.js"></script>
 or
-<script src="https://unpkg.com/opfs@1.0.0/opfs.js"></script>
+<script src="https://unpkg.com/opfs-js@1.0.0/opfs.js"></script>
 
-<script src="https://cdn.jsdelivr.net/npm/opfs@1.0.0/opfs.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/opfs-js@1.0.0/opfs.min.js"></script>
 or
-<script src="https://unpkg.com/opfs@1.0.0/opfs.min.js"></script>
+<script src="https://unpkg.com/opfs-js@1.0.0/opfs.min.js"></script>
 ```
 
 ### NPM
 ```bash
-npm install opfs.js
+npm install opfs-js
 ```
 ```js
-import OPFS from 'opfs.js';
+import OPFS from 'opfs-js';
 ```
 
 ### Require (CommonJS)
@@ -119,7 +119,7 @@ const OPFS = require('opfs.js');
 ### ES Module
 ```html
 <script type="module">
-  import OPFS from 'https://cdn.jsdelivr.net/npm/opfs.js/+esm';
+  import OPFS from 'https://cdn.jsdelivr.net/npm/opfs-js/opfs.js/+esm';
 </script>
 ```
 
